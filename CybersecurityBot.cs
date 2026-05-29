@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Implement user name memory functionality
+using System;
 using System.Collections.Generic;
 
 namespace CybersecurityChatbot
