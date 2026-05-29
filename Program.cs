@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Enable visual styles for chatbot application
+using System;
 using System.Windows.Forms;
 
 namespace CybersecurityChatbot
