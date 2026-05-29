@@ -1,4 +1,5 @@
-﻿using System.Speech.Synthesis;
+﻿// Integrate SpeechSynthesizer for bot communication
+using System.Speech.Synthesis;
 
 namespace CybersecurityChatbot
 {
