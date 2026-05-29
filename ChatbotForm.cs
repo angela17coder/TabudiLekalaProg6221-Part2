@@ -1,4 +1,5 @@
-﻿using System;
+//Initialize CyberGuard AI Windows Forms application//  
+using System;
 using System.Drawing;
 using System.Windows.Forms;
 
