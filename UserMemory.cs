@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿//Initialize TopicsDiscussed list in UserMemory
+using System.Collections.Generic;
 
 namespace CybersecurityChatbot
 {
