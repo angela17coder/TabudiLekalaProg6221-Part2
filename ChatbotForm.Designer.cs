@@ -1,4 +1,5 @@
-﻿namespace CybersecurityChatbot
+﻿//Add conversation display using RichTextBox
+namespace CybersecurityChatbot
 {
     partial class ChatbotForm
     {
